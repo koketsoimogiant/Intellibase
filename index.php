@@ -97,7 +97,7 @@
                 <td>Molwana</td>
                 <td>26634236</td>
                 <td>Project Manager</td>
-                <td>ldmolwana@gmail.com<br>ldmolwana@intellibase.co.za</td>
+                <td>ldmolwana@gmail.com</td>
               </tr>
               <tr>
                 <td>2</td>
@@ -105,7 +105,7 @@
                 <td>Malope</td>
                 <td>25783106</td>
                 <td>Programmer</td>
-                <td>imogiantkoketso@gmail.com<br>imogiantkoketso@intellibase.co.za</td>
+                <td>imogiantkoketso@gmail.com</td>
               </tr>
               <tr>
                 <td>3</td>
@@ -113,7 +113,7 @@
                 <td>Molale</td>
                 <td>25505483</td>
                 <td>Database Administrator</td>
-                <td>lerat6.molal6@gmail.com<br>lerat6.molal6@intellibase.co.za</td>
+                <td>lerat6.molal6@gmail.com</td>
               </tr>
               <tr>
                 <td>4</td>
@@ -121,7 +121,7 @@
                 <td>Mokoena</td>
                 <td>26149842</td>
                 <td>System Analyst</td>
-                <td>bohlokwamokoena23@gmail.com<br>bohlokwamokoena@intellibase.co.za</td>
+                <td>bohlokwamokoena23@gmail.com</td>
               </tr>
               <tr>
                 <td>5</td>
@@ -129,7 +129,7 @@
                 <td>Matsabu</td>
                 <td>26927764</td>
                 <td>Database Designer</td>
-                <td>gmatsabu@gmail.com<br>gmatsabu@intellibase.co.za</td>
+                <td>gmatsabu@gmail.com</td>
               </tr>
               <tr>
                 <td>6</td>
@@ -137,7 +137,7 @@
                 <td>Marutha</td>
                 <td>26926334</td>
                 <td>System Designer</td>
-                <td>moyagaboap@gmail.com<br>moyagaboap@intellibase.co.za</td>
+                <td>moyagaboap@gmail.com</td>
               </tr>
             </tbody>
           </table>  
@@ -165,8 +165,7 @@
             <div class="panel-body">
               K.I Malope <br>
               25783106 <br>
-              imogiantkoketso@gmail.com<br>
-              imogiantkoketso@intellibase.co.za
+              imogiantkoketso@gmail.com
             </div>
           </div>
         </div><!-- /.col-sm-4 -->
@@ -178,8 +177,7 @@
             <div class="panel-body">
               P.L Molale <br>
               25505483 <br>
-              lerat6.molal6@gmail.com<br>
-              lerat6.molal6@intellibase.co.za
+              lerat6.molal6@gmail.com
             </div>
           </div>
         </div><!-- /.col-sm-4 -->
@@ -191,8 +189,7 @@
             <div class="panel-body">
               L.B Mokoena <br>
               26149842 <br>
-              bohlokwamokoena23@gmail.com<br>
-              bohlokwamokoena@intellibase.co.za
+              bohlokwamokoena23@gmail.com
             </div>
           </div>
         </div><!-- /.col-sm-4 -->
@@ -204,8 +201,7 @@
             <div class="panel-body">
               T.G Matsabu <br>
               26927764 <br>
-              gmatsabu@gmail.com<br>
-              gmatsabu@intellibase.co.za
+              gmatsabu@gmail.com
             </div>
           </div>
         </div><!-- /.col-sm-4 -->
@@ -217,8 +213,7 @@
             <div class="panel-body">
               M.A Marutha <br>
               26926334 <br>
-              moyagaboap@gmail.com<br>
-              moyagaboap@intellibase.co.za
+              moyagaboap@gmail.com
             </div>
           </div>
         </div><!-- /.col-sm-4 -->
